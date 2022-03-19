@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demo application</string>
+    <string name="username_required">required</string>
+</resources>

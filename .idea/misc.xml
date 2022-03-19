@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13645833333333332" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/accessibility.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/arrow.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/background.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/build.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/contacts.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/hello.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/hide_password.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/ic_rupee_ic.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/menu.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/pen.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/person.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/phone.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/pic.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/rupee.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/rupee_ic.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/share.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/star.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/drawable/time.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/activity_list.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/activity_main3.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/activity_recylercview.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/activity_recylerview2.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/app_bar_main.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/content_main.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/demo.xml" value="0.2390625" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/django.xml" value="0.11980749746707194" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/header.xml" value="0.11626139817629179" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/iam.xml" value="0.10778985507246377" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/layoutactivity.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/list_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/narcos.xml" value="0.15" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/paytm.xml" value="0.22" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/registration.xml" value="0.11626139817629179" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/silicon.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/successfully.xml" value="0.1" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/superman.xml" value="0.11626139817629179" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/layout/timepass.xml" value="0.11626139817629179" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/menu/main_menu.xml" value="0.12962962962962962" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/menu/menu.xml" value="0.12962962962962962" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/ersal/Downloads/demoapplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2552083333333333" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2552083333333333" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/drawable-v24/narcos.xml" value="0.13645833333333332" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/drawable/hide_password.xml" value="0.2037037037037037" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2625" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/drawable/masti.xml" value="0.13645833333333332" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/drawable/narcos.xml" value="0.13645833333333332" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/layout/activity_main.xml" value="0.17889492753623187" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/layout/demo.xml" value="0.16621376811594202" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/layout/grand.xml" value="0.1203125" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/layout/iam.xml" value="0.12364130434782608" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/layout/narcos.xml" value="0.1" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/layout/registration.xml" value="0.6199213630406291" />
+        <entry key="..\:/project/demoapplication/app/src/main/res/layout/timepass.xml" value="0.15942028985507245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

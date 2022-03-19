@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".home"
+    android:gravity="center">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        >
+
+        <ImageView
+
+            android:id="@+id/share"
+            android:adjustViewBounds="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/share" />
+
+
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/paytm_mono"
+        android:layout_width="302dp"
+        android:layout_height="91dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/paytm_icon" />
+
+    <ImageView
+        android:id="@+id/right_butt"
+        android:layout_gravity="center"
+        android:layout_width="400dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ic_right"
+        android:adjustViewBounds="true"
+        android:layout_marginTop="20dp"/>
+
+
+    <TextView
+
+        android:id="@+id/money"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:drawableStart="@drawable/money"
+        android:text="50000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text_vi"
+        android:layout_width="wrap_content"
+        android:layout_height="31dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="sent successfully to" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="151dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Guru"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <TextView
+        android:gravity="center"
+        android:id="@+id/number"
+        android:layout_width="151dp"
+        android:layout_height="32dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="1234567890"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/dateandtime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="4:10pm,18 dec 2020" />
+
+    <TextView
+        android:id="@+id/wallent"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:text="Wallent Tnx ID:17123548495" />
+
+    <TextView
+
+        android:textStyle="bold"
+        android:gravity="center"
+        android:id="@+id/update"
+        android:layout_width="394dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:drawableTintMode="add"
+        android:text="Update Wallent Balance 5000               Logout"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/addmoney"
+        android:layout_width="284dp"
+        android:layout_height="35dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Add Money to wallent"
+        android:textSize="15dp" />
+
+
+</LinearLayout>
+
